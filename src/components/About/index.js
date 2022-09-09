@@ -18,13 +18,12 @@ const About = () => {
         <Text>
           <h1>Experiencia</h1>
           <p>
-            Nuestra matriz se encuentra en Ciudad de México, en donde se dio
-            inicio a sus actividades hace más de 30 años con la razón social
-            NORFER, la calidad y servicio de la empresa la ha mantenido en el
-            mercado por estos años, por ello se dio a la tarea de abrir sus
-            servicios a la ciudad de Puebla en el año 2016, en donde la empresa
-            a crecido en este estado por seguir con los lineamientos de la
-            matriz.
+            Nuestra matriz se encuentra en Ciudad de México, en donde dio inicio
+            a sus actividades hace más de 30 años con la razón social NORFER, la
+            calidad y servicio de la empresa la ha mantenido en el mercado por
+            estos años, por ello se dio a la tarea de abrir sus servicios a la
+            ciudad de Puebla en el año 2016, en donde la empresa a crecido en
+            este estado por seguir con los lineamientos de la matriz.
           </p>
           <p>
             Nos identificamos como una empresa responsable, comprometidos con
