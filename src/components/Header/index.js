@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { Nav, Logo, Hamburger, Menu, MenuLink, LogoN } from "./Header.styles";
 
-import logo from "../../images/logo.jpeg";
+import logo from "../../images/logo.png";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
