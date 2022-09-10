@@ -16,6 +16,13 @@ const Contact = () => {
             <FontAwesomeIcon className="email" size="2x" icon={faEnvelope} />
             Email: raulmtz40
           </h1>
+          <h1>@hotmail.com</h1>
+        </Con>
+        <Con className="ptp">
+          <h1>
+            <FontAwesomeIcon className="email" size="2x" icon={faEnvelope} />
+            Email: imperpuerm
+          </h1>
           <h1>@gmail.com</h1>
         </Con>
         <Con>
